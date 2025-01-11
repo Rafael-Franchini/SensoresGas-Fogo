@@ -4,6 +4,6 @@ Trabalho desenvolvido para a segunda prova prática da materia de Instrumentaç�
 
 ## 
 ## Sensores ultilizados
-  MQ-2: Sensor de gás para detectar gases inflamáveis e fumaça.
-  DHT11: Sensor de temperatura e umidade.
-  Sensor de Fogo: Utilizado para detectar a presença de chama ou fogo.
+- MQ-2: Sensor de gás para detectar gases inflamáveis e fumaça.
+- DHT11: Sensor de temperatura e umidade.
+- Sensor de Fogo: Utilizado para detectar a presença de chama ou fogo.
