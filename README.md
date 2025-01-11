@@ -17,8 +17,6 @@ Trabalho desenvolvido para a segunda prova prática da materia de Instrumentaç�
 ## Instalação
 - Clone este repositório: git clone https://github.com/seu-usuario/detector-de-incendio.git
 - Abra o projeto no Arduino IDE.
-- Certifique-se de ter as bibliotecas necessárias instaladas:
-  -- DHT
-  -- LiquidCrystal_I2C
-  --Compile e envie o código para a sua placa Arduino.
+- Certifique-se de ter as bibliotecas necessárias instaladas: DHT e LiquidCrystal_I2C
+- Compile e envie o código para a sua placa Arduino.
 
