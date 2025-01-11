@@ -20,8 +20,10 @@ Trabalho desenvolvido para a segunda prova prática da materia de Instrumentaç�
 - Certifique-se de ter as bibliotecas necessárias instaladas: DHT e LiquidCrystal_I2C
 - Compile e envie o código para a sua placa Arduino.
 
-# Contato e Sugestões
-Se você tiver dúvidas, sugestões ou feedback, entre em contato:
-<a href="mailto:rflfranchini@gmail.com" target="_blank"><img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/gmail--v1.png"/></a>
-<a href="https://www.instagram.com/rafael_franchini/" target="_blank"><img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/fluency/48/instagram-new.png"/></a>
-<a href="https://www.linkedin.com/in/rafael-franchini-37b0a21a4/" target="_blank"><img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/fluency/48/linkedin.png"/></a>
+
+
+<div align="center">
+  <a href="mailto:rflfranchini@gmail.com" target="_blank"><span><img alt="Gmail" height="40px" width="40px" src="https://img.icons8.com/color/48/gmail--v1.png"/></span></a>
+  <a href="https://www.instagram.com/rafael_franchini/" target="_blank"><span><img alt="Instagram" height="40px" width="40px" src="https://img.icons8.com/fluency/48/instagram-new.png"/></span></a>
+  <a href="https://www.linkedin.com/in/rafael-franchini-37b0a21a4/" target="_blank"><span><img alt="LinkedIn" height="40px" width="40px" src="https://img.icons8.com/fluency/48/linkedin.png"/></span></a>
+</div>
