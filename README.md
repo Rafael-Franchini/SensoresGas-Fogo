@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/5261a568-31b5-477a-89b0-29eaefbb3a6c
 ## Instalação
 1. Clone este repositório:
 ```bash
-  git clone https://github.com/seu-usuario/detector-de-incendio.git
+  git clone https://github.com/Rafael-franchini/detector-de-incendio.git
 ```
 3. Abra o projeto no Arduino IDE.
 4. Certifique-se de ter as bibliotecas necessárias instaladas: DHT e LiquidCrystal_I2C
